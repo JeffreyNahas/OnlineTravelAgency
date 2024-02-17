@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class Hotel {
     private String name;
     private Room[] rooms;
