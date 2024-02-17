@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class Basket {
     private Reservation[] reservations;
     public Basket(){
