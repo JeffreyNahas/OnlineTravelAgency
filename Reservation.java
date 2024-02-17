@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public abstract class Reservation {
     private String name;
     public Reservation(String clientname){
