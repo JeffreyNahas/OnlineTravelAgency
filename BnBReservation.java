@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class BnBReservation extends HotelReservation{
     public BnBReservation(String res_name, Hotel hotel, String room_type, int num_nights){
         super(res_name, hotel, room_type,num_nights);
