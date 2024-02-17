@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class Customer {
     private String name;
     private int balance;
