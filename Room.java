@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class Room {
     private String type;
     private int price;
