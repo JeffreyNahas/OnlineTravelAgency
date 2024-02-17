@@ -1,4 +1,4 @@
-package assignment1;
+package TravelAgency;
 public class Airport {
     private int Xcoordinate;
     private int Ycoordinate;
